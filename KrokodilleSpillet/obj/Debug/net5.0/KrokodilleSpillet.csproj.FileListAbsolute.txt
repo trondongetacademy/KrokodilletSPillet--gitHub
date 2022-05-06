@@ -1,0 +1,15 @@
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/obj/Debug/net5.0/KrokodilleSpillet.csproj.AssemblyReference.cache
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/obj/Debug/net5.0/KrokodilleSpillet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/obj/Debug/net5.0/KrokodilleSpillet.AssemblyInfoInputs.cache
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/obj/Debug/net5.0/KrokodilleSpillet.AssemblyInfo.cs
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/obj/Debug/net5.0/KrokodilleSpillet.csproj.CoreCompileInputs.cache
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/bin/Debug/net5.0/KrokodilleSpillet.deps.json
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/bin/Debug/net5.0/KrokodilleSpillet.runtimeconfig.json
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/bin/Debug/net5.0/KrokodilleSpillet.runtimeconfig.dev.json
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/bin/Debug/net5.0/KrokodilleSpillet.dll
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/bin/Debug/net5.0/ref/KrokodilleSpillet.dll
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/bin/Debug/net5.0/KrokodilleSpillet.pdb
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/obj/Debug/net5.0/KrokodilleSpillet.dll
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/obj/Debug/net5.0/ref/KrokodilleSpillet.dll
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/obj/Debug/net5.0/KrokodilleSpillet.pdb
+/Users/tronderik/Projects/KrokodilleSpillet/KrokodilleSpillet/obj/Debug/net5.0/KrokodilleSpillet.genruntimeconfig.cache
